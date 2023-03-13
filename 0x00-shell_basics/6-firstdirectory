@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir /tmp/my_first_directory
+echo "Directory created: /tmp/my_first_directory"
+
