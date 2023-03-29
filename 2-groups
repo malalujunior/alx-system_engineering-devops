@@ -1,5 +1,2 @@
 #!/bin/bash
-
-#printas all the groups that the user current is of 
-
-echo "group that the $USER is part of"
+groups
